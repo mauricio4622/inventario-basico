@@ -111,10 +111,9 @@
             <input type="submit" value="Ingresar">
         </form>
 
-        <?php
-            
-            include("registatr.php");
-        ?>
+    <?php
+      include("registrar.php");
+     ?>
          
         <a href="main/member.html" class="regis">Registro</a>
     </div>
